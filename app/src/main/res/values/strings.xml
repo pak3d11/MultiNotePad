@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">multinotepad</string>
+    <string name="all_notes">모든 노트</string>
+    <string name="collection">컬렉션</string>
 </resources>
